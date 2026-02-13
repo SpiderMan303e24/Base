@@ -1,5 +1,5 @@
 {
-  "minimumCommission": 100000000000,
+  "minimumCommission": 500000000000000,
   "ethicsRequirementsStandards": [
     "Task or submission does not produce content of excessive harm of living beings.",
     "Task or submission does not produce content of weapons of which the prominent purpose is to harm.",
@@ -8,33 +8,22 @@
     "Task or sumbission does not produce content of illegal material that may harm the integrity of PeterParker303e24."
   ],
   "workerTasks": [
-    "h-5",
+    "h-3",
     "dh-2",
-    "v-1",
-    "v-2",
-    "v-3"
+    "v-0"
   ],
   "managerTasks": [
     "h-0",
     "h-1",
     "h-2",
     "h-3",
-    "h-4",
-    "h-5",
-    "h-6",
     "dh-0",
     "dh-1",
-    "dh-2",
-    "v-0",
-    "v-1",
-    "v-2",
-    "v-3",
-    "v-4"
+    "dh-2,
+    "v-0"
   ],
   "validatorTasks": [
-    "v-1",
-    "v-2",
-    "v-3"
+    "v-0"
   ],
   "validationRequirementsWhitelist": null,
   "availableValidationTime": "Minimum 2 weeks validation window for validator tasks."
