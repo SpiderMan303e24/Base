@@ -4,8 +4,7 @@
     "Task or submission does not produce content of excessive harm of living beings.",
     "Task or submission does not produce content of weapons of which the prominent purpose is to harm.",
     "Task or submission does not produce content of any non-consentual nudity or sexual acts.",
-    "Task or submission does not produce content of an individual's information for which there is a reasonable expectation of privacy.",
-    "Task or sumbission does not produce content of illegal material that may harm the integrity of PeterParker303e24."
+    "Task or submission does not produce content of an individual's information for which there is a reasonable expectation of privacy."
   ],
   "workerTasks": [
     "h-3",
@@ -19,11 +18,21 @@
     "h-3",
     "dh-0",
     "dh-1",
-    "dh-2,
-    "v-0"
+    "dh-2",
+    "v-0",
+    "v-1",
+    "v-2",
+    "v-3",
+    "v-4",
+    "v-5"
   ],
   "validatorTasks": [
-    "v-0"
+    "v-0",
+    "v-1",
+    "v-2",
+    "v-3",
+    "v-4",
+    "v-5"
   ],
   "validationRequirementsWhitelist": null,
   "availableValidationTime": "Minimum 2 weeks validation window for validator tasks."
